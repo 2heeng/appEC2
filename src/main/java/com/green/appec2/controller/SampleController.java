@@ -10,6 +10,7 @@ public class SampleController {
     @RequestMapping("/getArr")
     public String[] getArr(){
         return new String[]{"jjajang","jjamppong","bibim"};
+        //5월8일
     }
 
 
